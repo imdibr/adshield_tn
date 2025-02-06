@@ -1,0 +1,41 @@
+[
+    {
+        "description": "This account is offering free iPhone giveaways.",
+        "favourites_count": 50,
+        "followers_count": 2000,
+        "friends_count": 500,
+        "statuses_count": 120,
+        "average_tweets_per_day": 5,
+        "account_age_days": 730,
+        "default_profile": 0,
+        "default_profile_image": 0,
+        "geo_enabled": 1,
+        "verified": 0
+    },
+    {
+        "description": "free money is offered in this account",
+        "favourites_count": 300,
+        "followers_count": 150,
+        "friends_count": 100,
+        "statuses_count": 500,
+        "average_tweets_per_day": 2,
+        "account_age_days": 1095,
+        "default_profile": 0,
+        "default_profile_image": 0,
+        "geo_enabled": 1,
+        "verified": 0
+    },
+    {
+        "description": "Breaking news: Latest updates from around the world.",
+        "favourites_count": 500,
+        "followers_count": 100000,
+        "friends_count": 100,
+        "statuses_count": 20000,
+        "average_tweets_per_day": 50,
+        "account_age_days": 3650,
+        "default_profile": 0,
+        "default_profile_image": 0,
+        "geo_enabled": 1,
+        "verified": 1
+    }
+]
